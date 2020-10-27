@@ -1,4 +1,4 @@
-root {
+:root {
 
 	/* ACCENT COLORS */
 	--main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #59cfbd] */
